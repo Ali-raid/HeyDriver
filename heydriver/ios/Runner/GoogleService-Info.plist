@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>105141282139-75andgu6pl6sgvc02gi7lkv7qe56oii5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.105141282139-75andgu6pl6sgvc02gi7lkv7qe56oii5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpPq86m7M0Bg-fL2ba6XkCdQdOgDCBugA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>105141282139</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.altinbas.heydriver</string>
+	<key>PROJECT_ID</key>
+	<string>driver-abbd5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>driver-abbd5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:105141282139:ios:ff025a1e7bafb9763f267e</string>
+	<key>DATABASE_URL</key>
+	<string>https://driver-abbd5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
